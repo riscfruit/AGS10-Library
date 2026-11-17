@@ -12,7 +12,7 @@ All rights reserved.
 import time
 from machine import I2C, Pin
 
-__version__ = "1.0.0"
+__version__ = "1.0.1"
 
 DEFAULT_ADDR = 0x1A
 MAX_FREQ = 15000
